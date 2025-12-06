@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A clean personal portfolio built with HTML, CSS, and JavaScript.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "image": "assets/projects/portfolio.png",
+    "link": "https://github.com/orezon/portfolio"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Dashboard Concept",
+    "description": "A modern dashboard UI concept emphasizing clean design.",
+    "tech": ["Figma", "UI Design"],
+    "image": "assets/projects/dashboard.png",
+    "link": "https://behance.net/orezon"
+  },
+  {
+    "id": 3,
+    "title": "E-Commerce Mobile App",
+    "description": "Flutter-based mobile application with modern UI/UX principles.",
+    "tech": ["Flutter", "Dart", "UI Design"],
+    "image": "assets/projects/ecommerce.png",
+    "link": "https://github.com/orezon/ecommerce"
+  },
+  {
+    "id": 4,
+    "title": "Landing Page Design",
+    "description": "Creative landing page with smooth animations and interactions.",
+    "tech": ["HTML", "CSS", "JavaScript", "GSAP"],
+    "image": "assets/projects/landing.png",
+    "link": "https://github.com/orezon/landing"
+  },
+  {
+    "id": 5,
+    "title": "Restaurant Website",
+    "description": "Responsive restaurant website with online ordering functionality.",
+    "tech": ["HTML", "CSS", "JavaScript", "PHP"],
+    "image": "assets/projects/restaurant.png",
+    "link": "https://github.com/orezon/restaurant"
+  },
+  {
+    "id": 6,
+    "title": "Task Management App",
+    "description": "Simple yet powerful task management application with drag and drop.",
+    "tech": ["JavaScript", "React", "UI Design"],
+    "image": "assets/projects/taskapp.png",
+    "link": "https://github.com/orezon/taskapp"
+  }
+]
